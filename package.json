@@ -17,6 +17,7 @@
       "googleapis": "^108.0.0",
       "jsonwebtoken": "^8.5.1",
       "mailgun.js": "^8.0.1",
+      "mongodb": "^4.11.0",
       "mongoose": "^5.12.2",
       "multer": "*",
       "nodemailer": "^6.8.0",
